@@ -1,0 +1,9 @@
+img {
+  width: 200px;
+  /* background-color: white; */
+}
+
+#game-infos > div {
+  display: inline-block;
+  margin: 0 50px;
+}
